@@ -1,83 +1,88 @@
 # Hey 👋 I'm Mohamed Gandoul (モハメッド・ガンドゥール)
 
-Welcome to my GitHub 😊  
-This is basically my **digital CV + journey in tech 🚀**
+Welcome to my GitHub 😄💻  
+I'm really happy you're here!
+
+This is where I share my journey in **IT, Web Development, and learning new things every day 🚀**
 
 ---
 
-## 👋 A little about me
+## 😊 About me
 
-Hey there! I’m Mohamed 😊  
-I’m a **Junior IT Support Specialist and Web Developer**, and I really enjoy learning how systems work, fixing problems, and building things with code.
+Hey! I'm Mohamed 👋  
+I'm someone who really enjoys:
+- fixing problems 🛠️  
+- building websites 💻  
+- learning new technologies 🌍  
+- and discovering how computers really work 🤓  
 
-I recently finished my **Bac+2 in Web Development & IT (OFPPT)** and also completed the **Google IT Support Professional Certificate** 🎓
+I recently finished my **Bac+2 in Web Development & IT (OFPPT)** and also earned the **Google IT Support Certificate 🎓**
 
-I’m still growing every day, learning new technologies, and trying to improve step by step 🚀
-
----
-
-## 💼 What I’ve done so far
-
-From my experience and training, I worked on:
-
-- 🖥️ Helping users fix technical problems (hardware & software)
-- 🎫 Working with ticketing systems and IT support tasks
-- 🌐 Fixing website issues and supporting web apps
-- 📄 Writing and organizing technical documentation
-- 🔧 Troubleshooting systems and networks
+I'm still learning every day, step by step, and enjoying the journey 🚀
 
 ---
 
-## 🧠 What I like working with
+## 💼 What I do (and enjoy doing)
 
-- 🌐 Web Development: HTML, CSS, JavaScript, React, Node.js
-- 🗄️ Databases: MySQL, MongoDB
-- 🖥️ IT Support & troubleshooting
-- 🔐 Learning cybersecurity basics
-- 🛠️ Git & GitHub for projects
+- 🖥️ Helping people fix computer and system problems  
+- 🌐 Building simple and useful websites  
+- 🎫 Working with IT support and troubleshooting  
+- 📄 Organizing and improving technical documentation  
+- 🔧 Solving bugs and system issues (like a detective 🕵️‍♂️)
+
+---
+
+## 💡 Things I work with
+
+- 🌐 HTML, CSS, JavaScript  
+- ⚛️ React, Node.js  
+- 🗄️ MySQL, MongoDB  
+- 🖥️ IT Support & troubleshooting  
+- 🔐 Learning cybersecurity basics  
+- 🛠️ Git & GitHub
 
 ---
 
 ## 🌍 Languages I speak
 
-- 🇸🇦 Arabic (native)
-- 🇬🇧 English (good)
-- 🇫🇷 French (good)
-- 🇩🇪 German (B1 – improving)
-- 🇯🇵 Japanese (N5 – beginner)
-- 🇨🇳 Chinese (learning)
+I love languages because they help me connect with people 💖
 
-I really love languages because they help me connect with people from different countries 🌍
-
----
-
-## 🎯 My goal
-
-My big goal is to move to Germany 🇩🇪 in 2026  
-and start an **IT Ausbildung or IT job in Web Development / IT Support**
-
-I’m working step by step to improve my skills and become a strong IT specialist 💪
+- 🇸🇦 Arabic (native)  
+- 🇬🇧 English (good)  
+- 🇫🇷 French (good)  
+- 🇩🇪 German (B1 – improving 🇩🇪🔥)  
+- 🇯🇵 Japanese (N5 – beginner)  
+- 🇨🇳 Chinese (learning slowly 😊)
 
 ---
 
-## ⚡ What I’m currently doing
+## 🎯 My dream
 
-- 🌱 Improving my German (B1 → B2)
-- 💻 Building small web projects
-- 🧠 Learning IT support & networking deeply
-- 🚀 Preparing for international opportunities
+My big dream is to go to Germany 🇩🇪 in 2026  
+and start my career in **IT Support or Web Development**
+
+I'm working hard every day to improve my skills and make it happen 💪✨
 
 ---
 
-## 📫 Contact me
+## 🌱 What I'm doing now
+
+- 📚 Learning German step by step  
+- 💻 Building small web projects  
+- 🧠 Improving IT support skills  
+- 🚀 Preparing for new opportunities  
+
+---
+
+## 📫 Let's connect!
 
 - 📧 Email: mohamedgandoul@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/mohamed-gandoul/  
+- 💼 LinkedIn: https://www.linkedin.com/in/mohamed-gandoul  
 - 📸 Instagram: @mohamedgandoul  
 
 ---
 
-## ⚡ Fun fact
+## ⚡ Fun fact 😄
 
 “Pepo” means happy 🙂  
-and I try to stay positive while learning new things every day 🚀
+and I really try to bring that energy into everything I do 💖🚀
