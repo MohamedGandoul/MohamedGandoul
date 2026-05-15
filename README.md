@@ -3,86 +3,97 @@
 Welcome to my GitHub 😄💻  
 I'm really happy you're here!
 
-This is where I share my journey in **IT, Web Development, and learning new things every day 🚀**
+This is where I share my journey in **IT Support, Web Development, and continuous learning 🚀**
 
 ---
 
 ## 😊 About me
 
 Hey! I'm Mohamed 👋  
-I'm someone who really enjoys:
-- fixing problems 🛠️  
-- building websites 💻  
-- learning new technologies 🌍  
-- and discovering how computers really work 🤓  
+I'm a passionate **IT Support Specialist & Junior Web Developer** from Morocco 🇲🇦
 
-I recently finished my **Bac+2 in Web Development & IT (OFPPT)** and also earned the **Google IT Support Certificate 🎓**
+I enjoy:
+- 🛠️ solving technical problems  
+- 💻 building websites and small projects  
+- 🌍 learning how systems and networks work  
+- 🤓 exploring new technologies every day  
 
-I'm still learning every day, step by step, and enjoying the journey 🚀
+I hold a **Google IT Support Professional Certificate** and I’m currently continuing my studies in IT support and infrastructure 💪
 
----
-
-## 💼 What I do (and enjoy doing)
-
-- 🖥️ Helping people fix computer and system problems  
-- 🌐 Building simple and useful websites  
-- 🎫 Working with IT support and troubleshooting  
-- 📄 Organizing and improving technical documentation  
-- 🔧 Solving bugs and system issues (like a detective 🕵️‍♂️)
+My goal is simple: **keep learning, keep improving, and grow in the IT world 🚀**
 
 ---
 
-## 💡 Things I work with
+## 💼 Experience
 
-- 🌐 HTML, CSS, JavaScript  
-- ⚛️ React, Node.js  
-- 🗄️ MySQL, MongoDB  
-- 🖥️ IT Support & troubleshooting  
-- 🔐 Learning cybersecurity basics  
-- 🛠️ Git & GitHub
-
----
-
-## 🌍 Languages I speak
-
-I love languages because they help me connect with people 💖
-
-- 🇸🇦 Arabic (native)  
-- 🇬🇧 English (good)  
-- 🇫🇷 French (good)  
-- 🇩🇪 German (B1 – improving 🇩🇪🔥)  
-- 🇯🇵 Japanese (N5 – beginner)  
-- 🇨🇳 Chinese (learning slowly 😊)
+### 🖥️ IT Support Specialist & Content Moderator  
+**FoundEver (01/2025 - Present)**  
+- Handled user interactions and supported platform safety  
+- Improved engagement and followed moderation guidelines  
+- Helped maintain a safe and structured online environment  
 
 ---
 
-## 🎯 My dream
-
-My big dream is to go to Germany 🇩🇪 in 2026  
-and start my career in **IT Support or Web Development**
-
-I'm working hard every day to improve my skills and make it happen 💪✨
-
----
-
-## 🌱 What I'm doing now
-
-- 📚 Learning German step by step  
-- 💻 Building small web projects  
-- 🧠 Improving IT support skills  
-- 🚀 Preparing for new opportunities  
+### 🔧 IT & Web Development Intern  
+**Mihana-Go (03/2024 - 05/2024)**  
+- Worked on troubleshooting, networking, and system administration  
+- Supported backups and disaster recovery (100% data integrity)  
+- Installed and configured operating systems and software  
+- Improved ticket response time by 25% 📈  
 
 ---
 
-## 📫 Let's connect!
+## 🎓 Education & Certifications
 
-- 📧 Email: mohamedgandoul@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/mohamed-gandoul  
-- 📸 Instagram: @mohamedgandoul  
+- 🎓 Microsoft IT Support Specialist (In progress)  
+- 🎓 Google IT Support Professional Certificate  
+- 🎓 Full-Stack & IT Diploma – OFPPT  
+- 🎓 High School Diploma – Casablanca  
 
 ---
 
-## ⚡ Fun fact 😄
+## 🧠 Skills
+
+### 🖥️ IT Support
+Hardware diagnostics, software troubleshooting, system maintenance, user support
+
+### 🌐 Networking
+TCP/IP, DNS, DHCP, VPN, basic Active Directory
+
+### 💻 Web Development
+HTML, CSS, JavaScript, PHP, SQL, NoSQL
+
+### ⚙️ Tools & Frameworks
+React, Node.js, Express, Laravel, Bootstrap, MySQL, MongoDB, Git, GitHub
+
+### 📄 Other
+Agile & Scrum, Jira, technical documentation, Office tools
+
+---
+
+## 🌍 Languages
+
+- 🇸🇦 Arabic – Native  
+- 🇬🇧 English – Professional  
+- 🇫🇷 French – Professional  
+- 🇩🇪 German – B1 (improving 🇩🇪🔥)  
+- 🇯🇵 Japanese – N5  
+- 🇨🇳 Chinese – Beginner  
+
+---
+
+## 🎯 My Goal
+
+My dream is to move to **Germany 🇩🇪 (2026)**  
+and start my career in **IT Support / Web Development / Infrastructure**
+
+I’m working step by step to improve my skills and become a strong IT professional 💪
+
+---
+
+## ⚡ Fun fact
 
 “Pepo” means happy 🙂  
-and I really try to bring that energy into everything I do 💖🚀
+and I try to bring that energy into everything I do 💖🚀
+
+Thanks for visiting my profile! 😄
