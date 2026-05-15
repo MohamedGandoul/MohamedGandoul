@@ -1,109 +1,83 @@
-# Hey 👋, I'm Mohamed Gandoul (モハメッド・ガンドゥール)
+# Hey 👋 I'm Mohamed Gandoul (モハメッド・ガンドゥール)
 
-## 💻 Junior IT Support Specialist | Web Developer | Future IT Engineer in Germany 🇩🇪
-
----
-
-## 🚀 Profile Views
-<a href="https://github.com/MohamedGandoul/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=MohamedGandoul&style=flat-square&color=blue">
-</a>
+Welcome to my GitHub 😊  
+This is basically my **digital CV + journey in tech 🚀**
 
 ---
 
-## 🌟 About Me
+## 👋 A little about me
 
-Hi there! 😊  
-I'm Mohamed, a passionate **IT Support Specialist & Junior Web Developer** with a strong focus on **problem-solving, networking, and cybersecurity basics**.
+Hey there! I’m Mohamed 😊  
+I’m a **Junior IT Support Specialist and Web Developer**, and I really enjoy learning how systems work, fixing problems, and building things with code.
 
-🎓 I recently completed the **Google IT Support Professional Certificate**  
-🎓 Bac+2 in Web Development & IT (OFPPT)
+I recently finished my **Bac+2 in Web Development & IT (OFPPT)** and also completed the **Google IT Support Professional Certificate** 🎓
 
-I enjoy building projects, fixing systems, and learning new technologies every day 🚀
-
----
-
-## 🧠 What I Do Best
-
-- 🖥️ IT Support (Hardware, Software, Troubleshooting, Ticket Systems)
-- 🌐 Web Development (HTML, CSS, JavaScript, React, Node.js)
-- 🔐 Basic Cybersecurity (logs, network hardening, monitoring)
-- 🛠️ System optimization & technical documentation
+I’m still growing every day, learning new technologies, and trying to improve step by step 🚀
 
 ---
 
-## 🌍 Languages
+## 💼 What I’ve done so far
 
-- 🇸🇦 Arabic (Native)
-- 🇬🇧 English (Fluent)
-- 🇫🇷 French (Fluent)
+From my experience and training, I worked on:
+
+- 🖥️ Helping users fix technical problems (hardware & software)
+- 🎫 Working with ticketing systems and IT support tasks
+- 🌐 Fixing website issues and supporting web apps
+- 📄 Writing and organizing technical documentation
+- 🔧 Troubleshooting systems and networks
+
+---
+
+## 🧠 What I like working with
+
+- 🌐 Web Development: HTML, CSS, JavaScript, React, Node.js
+- 🗄️ Databases: MySQL, MongoDB
+- 🖥️ IT Support & troubleshooting
+- 🔐 Learning cybersecurity basics
+- 🛠️ Git & GitHub for projects
+
+---
+
+## 🌍 Languages I speak
+
+- 🇸🇦 Arabic (native)
+- 🇬🇧 English (good)
+- 🇫🇷 French (good)
 - 🇩🇪 German (B1 – improving)
 - 🇯🇵 Japanese (N5 – beginner)
 - 🇨🇳 Chinese (learning)
-- 🇪🇸 Spanish (basic)
+
+I really love languages because they help me connect with people from different countries 🌍
 
 ---
 
-## 🎯 Goals (2026)
+## 🎯 My goal
 
-- 🇩🇪 Move to Germany for **IT Ausbildung / Job**
-- 🧑‍💻 Become a professional IT Support / Network Engineer
-- ☁️ Learn Cloud & Cybersecurity (AWS / Microsoft / Cisco path)
-- 🌍 Work internationally and help people with tech
+My big goal is to move to Germany 🇩🇪 in 2026  
+and start an **IT Ausbildung or IT job in Web Development / IT Support**
 
----
-
-## ⚡ Experience
-
-- 💼 IT Support Internship (Ticketing Systems, Troubleshooting, Web Issues)
-- 🧾 Documentation of recurring technical problems
-- 🔧 Helped users fix system & network issues
-- 🖥️ Hands-on experience with real IT environments
+I’m working step by step to improve my skills and become a strong IT specialist 💪
 
 ---
 
-## 🛠️ Tools & Technologies
+## ⚡ What I’m currently doing
 
-<div align="center">
-
-<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40"/>
-<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40"/>
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="40"/>
-<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40"/>
-<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="40"/>
-<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="40"/>
-<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="40"/>
-<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="40"/>
-<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="40"/>
-
-</div>
+- 🌱 Improving my German (B1 → B2)
+- 💻 Building small web projects
+- 🧠 Learning IT support & networking deeply
+- 🚀 Preparing for international opportunities
 
 ---
 
-## 📈 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=MohamedGandoul&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedGandoul&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 📫 Contact Me
+## 📫 Contact me
 
 - 📧 Email: mohamedgandoul@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/mohamed-gandoul/  
-- 📸 Instagram: https://www.instagram.com/mohamedgandoul/
+- 📸 Instagram: @mohamedgandoul  
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Fun fact
 
-> "Pepo" means happy 🙂  
-I believe in continuous learning, solving problems, and growing every single day 🚀
+“Pepo” means happy 🙂  
+and I try to stay positive while learning new things every day 🚀
