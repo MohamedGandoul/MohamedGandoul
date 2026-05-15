@@ -1,62 +1,81 @@
-# Hey 👋, I'm Mohamad Gandoul (モハメッド ガンドゥール)
+# Hey 👋, I'm Mohamed Gandoul (モハメッド・ガンドゥール)
+
+## 💻 Junior IT Support Specialist | Web Developer | Future IT Engineer in Germany 🇩🇪
+
+---
 
 ## 🚀 Profile Views
 <a href="https://github.com/MohamedGandoul/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Pepo946&style=flat-square&color=blue">
+    <img src="https://komarev.com/ghpvc/?username=MohamedGandoul&style=flat-square&color=blue">
 </a>
 
 ---
 
-## 💻 Junior Web Developer & IT Support Specialist
+## 🌟 About Me
 
-### 🌟 Multilingual | Passionate Learner | Problem Solver  
+Hi there! 😊  
+I'm Mohamed, a passionate **IT Support Specialist & Junior Web Developer** with a strong focus on **problem-solving, networking, and cybersecurity basics**.
 
-With **4+ years of experience** in hardware and software support, I specialize in:
-- **Web Development**: Proficient in HTML, CSS, JavaScript, Node.js, React.js, Ruby, MySQL, and more.
-- **IT Support**: Skilled in troubleshooting, system optimization, and providing excellent technical support.
-- **Languages**: Fluent in Arabic, English, French, and learning German (B1), Japanese (N5), Chinese, and others!
+🎓 I recently completed the **Google IT Support Professional Certificate**  
+🎓 Bac+2 in Web Development & IT (OFPPT)
 
----
-
-### 👋 Glad to Have You Here!
-
-Hi there! 😊 I'm Mohamed, a Junior Web Developer and IT Support Specialist. Recently, I earned my **Bac+2 diploma in Web Development and IT** from OFPPT, and I'm on a journey of continuous growth and learning.
-
-### 🌍 My Passions:
-- Exploring **new technologies** in web development and IT support.
-- **Learning languages** to connect with the world: German, Japanese, Chinese, Spanish, Russian, and more.
-- Tackling **technical challenges** and solving problems efficiently.
-- **Reviving my GitHub journey** with fresh and exciting projects!
+I enjoy building projects, fixing systems, and learning new technologies every day 🚀
 
 ---
 
-### ⚡ Rapidfire
+## 🧠 What I Do Best
 
-- 📫 **How to reach me**: [mohamedgandoul@gmail.com](mailto:mohamedgandoul@gmail.com)
-- 🌱 **Currently Learning**: Advanced German, IT Support, and Web Dev.
-- ❓ **Ask Me About**: HTML, CSS, JavaScript, React, Node.js, troubleshooting, and system optimization.
-- ⚡ **Fun Fact**: "Pepo" means happy 🙂 and I thrive on continuous learning!
-- 🎯 **Goal**: Become a tech specialist in Germany through an **IT or Web Development Ausbildung by 2026**.
-- 🌍 **Open To**: International job opportunities, new challenges, and global collaborations.
+- 🖥️ IT Support (Hardware, Software, Troubleshooting, Ticket Systems)
+- 🌐 Web Development (HTML, CSS, JavaScript, React, Node.js)
+- 🔐 Basic Cybersecurity (logs, network hardening, monitoring)
+- 🛠️ System optimization & technical documentation
+
+---
+
+## 🌍 Languages
+
+- 🇸🇦 Arabic (Native)
+- 🇬🇧 English (Fluent)
+- 🇫🇷 French (Fluent)
+- 🇩🇪 German (B1 – improving)
+- 🇯🇵 Japanese (N5 – beginner)
+- 🇨🇳 Chinese (learning)
+- 🇪🇸 Spanish (basic)
+
+---
+
+## 🎯 Goals (2026)
+
+- 🇩🇪 Move to Germany for **IT Ausbildung / Job**
+- 🧑‍💻 Become a professional IT Support / Network Engineer
+- ☁️ Learn Cloud & Cybersecurity (AWS / Microsoft / Cisco path)
+- 🌍 Work internationally and help people with tech
+
+---
+
+## ⚡ Experience
+
+- 💼 IT Support Internship (Ticketing Systems, Troubleshooting, Web Issues)
+- 🧾 Documentation of recurring technical problems
+- 🔧 Helped users fix system & network issues
+- 🖥️ Hands-on experience with real IT environments
 
 ---
 
 ## 🛠️ Tools & Technologies
 
 <div align="center">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a>
-  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" /></a>
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" /></a>
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="40" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" /></a>
-  <a href="https://laravel.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="40" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" /></a>
-  <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" /></a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="40" /></a>
+
+<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="40"/>
+
 </div>
 
 ---
@@ -65,20 +84,26 @@ Hi there! 😊 I'm Mohamed, a Junior Web Developer and IT Support Specialist. Re
 
 <table>
   <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=MohamedGandoul&show_icons=true&count_private=true&hide_title=true&hide=prs&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&border_radius=10&theme=radical" />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=MohamedGandoul&show_icons=true&theme=radical" />
     </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedGandoul&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&border_radius=10&theme=radical" />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedGandoul&layout=compact&theme=radical" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🌐 Connect with Me:
-[<img align="left" alt="mohamedgandoul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="pepo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## 📫 Contact Me
 
-[linkedin]: https://www.linkedin.com/in/mohamed-gandoul/
-[instagram]: https://www.instagram.com/mohamedgandoul/
+- 📧 Email: mohamedgandoul@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/mohamed-gandoul/  
+- 📸 Instagram: https://www.instagram.com/mohamedgandoul/
+
+---
+
+## ⚡ Fun Fact
+
+> "Pepo" means happy 🙂  
+I believe in continuous learning, solving problems, and growing every single day 🚀
