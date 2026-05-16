@@ -8,7 +8,6 @@
 
 <p align="center">
   <strong>Junior IT Support Specialist | System & Network Technician | Web Developer</strong><br />
-  `mohamadgandoul@gmail.com` · `+212 693-413964` · Casablanca, Morocco<br />
   <a href="https://linkedin.com/in/mohamed-gandoul">linkedin.com/in/mohamed-gandoul</a>
 </p>
 
