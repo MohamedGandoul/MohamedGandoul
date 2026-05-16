@@ -1,99 +1,70 @@
 # Hey 👋 I'm Mohamed Gandoul (モハメッド・ガンドゥール)
 
-Welcome to my GitHub 😄💻  
-I'm really happy you're here!
-
-This is where I share my journey in **IT Support, Web Development, and continuous learning 🚀**
-
----
-
-## 😊 About me
-
-Hey! I'm Mohamed 👋  
-I'm a passionate **IT Support Specialist & Junior Web Developer** from Morocco 🇲🇦
-
-I enjoy:
-- 🛠️ solving technical problems  
-- 💻 building websites and small projects  
-- 🌍 learning how systems and networks work  
-- 🤓 exploring new technologies every day  
-
-I hold a **Google IT Support Professional Certificate** and I’m currently continuing my studies in IT support and infrastructure 💪
-
-My goal is simple: **keep learning, keep improving, and grow in the IT world 🚀**
+I believe technology is not only about computers — it’s also about helping people.
 
 ---
 
 ## 💼 Experience
 
 ### 🖥️ IT Support Specialist & Content Moderator  
-**FoundEver (01/2025 - Present)**  
-- Handled user interactions and supported platform safety  
-- Improved engagement and followed moderation guidelines  
-- Helped maintain a safe and structured online environment  
+**FoundEver (2025 - Present)**
+- Supported users and handled platform moderation
+- Improved engagement and communication quality
+- Helped maintain a safe and respectful environment
 
 ---
 
 ### 🔧 IT & Web Development Intern  
-**Mihana-Go (03/2024 - 05/2024)**  
-- Worked on troubleshooting, networking, and system administration  
-- Supported backups and disaster recovery (100% data integrity)  
-- Installed and configured operating systems and software  
-- Improved ticket response time by 25% 📈  
-
----
-
-## 🎓 Education & Certifications
-
-- 🎓 Microsoft IT Support Specialist (In progress)  
-- 🎓 Google IT Support Professional Certificate  
-- 🎓 Full-Stack & IT Diploma – OFPPT  
-- 🎓 High School Diploma – Casablanca  
+**Mihana-Go (2024)**
+- Worked on troubleshooting and system support
+- Installed and configured operating systems
+- Supported backups and disaster recovery
+- Improved ticket response time by 25%
 
 ---
 
 ## 🧠 Skills
 
-### 🖥️ IT Support
-Hardware diagnostics, software troubleshooting, system maintenance, user support
+### 💻 IT Support
+Hardware diagnostics, troubleshooting, maintenance, technical support
 
 ### 🌐 Networking
-TCP/IP, DNS, DHCP, VPN, basic Active Directory
+TCP/IP, DNS, DHCP, VPN, Active Directory basics
 
-### 💻 Web Development
-HTML, CSS, JavaScript, PHP, SQL, NoSQL
+### ⚙️ Web Development
+HTML, CSS, JavaScript, PHP, React, Node.js
 
-### ⚙️ Tools & Frameworks
-React, Node.js, Express, Laravel, Bootstrap, MySQL, MongoDB, Git, GitHub
-
-### 📄 Other
-Agile & Scrum, Jira, technical documentation, Office tools
+### 🛠️ Tools
+Git, GitHub, MySQL, MongoDB, Laravel, Bootstrap, Jira
 
 ---
 
 ## 🌍 Languages
 
-- 🇸🇦 Arabic – Native  
-- 🇬🇧 English – Professional  
-- 🇫🇷 French – Professional  
-- 🇩🇪 German – B1 (improving 🇩🇪🔥)  
-- 🇯🇵 Japanese – N5  
-- 🇨🇳 Chinese – Beginner  
+- 🇸🇦 Arabic — Native
+- 🇬🇧 English — Professional
+- 🇫🇷 French — Professional
+- 🇩🇪 German — B1
+- 🇯🇵 Japanese — Beginner
+- 🇨🇳 Chinese — Beginner
 
 ---
 
 ## 🎯 My Goal
 
-My dream is to move to **Germany 🇩🇪 (2026)**  
-and start my career in **IT Support / Web Development / Infrastructure**
+My dream is to build an international career in IT 🇩🇪
 
-I’m working step by step to improve my skills and become a strong IT professional 💪
+I'm currently preparing for opportunities in:
+- IT Support
+- Networking
+- System Administration
+- Web Development
+
+and continuously improving my technical and language skills 🚀
 
 ---
 
 ## ⚡ Fun fact
 
 “Pepo” means happy 🙂  
-and I try to bring that energy into everything I do 💖🚀
-
-Thanks for visiting my profile! 😄
+and I try to bring that energy into everything I do 💖
