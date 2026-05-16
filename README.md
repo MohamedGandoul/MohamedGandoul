@@ -36,6 +36,21 @@ My goal is simple: **keep learning, keep improving, and grow in the IT world �
 
 ## 💼 Experience
 
+### 🏢 Union IT Services — IT Infrastructure & Systems Intern
+
+**Union IT Services · Internship**  
+Apr 2026 - Present · Casablanca-Settat, Morocco · On-site
+
+- Assisted in configuring and managing network infrastructure (VLANs, routing, switching)
+- Worked with Windows Server (Active Directory, DNS, DHCP, Group Policy)
+- Deployed and managed virtual machines using VMware vSphere
+- Performed basic backup and recovery operations using Veeam
+- Explored cloud services with Microsoft Azure (VMs, networking)
+- Configured and monitored firewall and security policies (Fortigate)
+- Participated in troubleshooting real-world IT issues and system maintenance
+
+---
+
 ### 🖥️ IT Support Specialist & Content Moderator
 
 **FoundEver (01/2025 - Present)**
@@ -63,6 +78,31 @@ My goal is simple: **keep learning, keep improving, and grow in the IT world �
 - 🎓 Google IT Support Professional Certificate
 - 🎓 Full-Stack & IT Diploma – OFPPT
 - 🎓 High School Diploma – Casablanca
+- 🎓 Foundation Degree, IT Infrastructure, Systems & Network Administration — Union IT Services (Apr 2026 – Present)
+
+**Union IT Services — Foundation Degree, IT Infrastructure, Systems & Network Administration**
+
+Activities and societies:
+
+- Hands-on labs in networking and system administration
+- Building virtual lab environments (VMware / Hyper-V)
+- Practicing real-world IT troubleshooting scenarios
+- Exploring cybersecurity fundamentals and network security
+- Self-learning and certification preparation (CCNA, Azure)
+- Collaborating with peers on technical projects and problem-solving
+
+This program provided a strong foundation in IT infrastructure and enterprise environments. I gained hands-on experience in networking, system administration, virtualization, cloud computing, and cybersecurity.
+
+Key areas covered include:
+
+- Network configuration and troubleshooting (Cisco technologies)
+- Windows Server administration (Active Directory, DNS, DHCP, Group Policy)
+- Virtualization with VMware vSphere
+- Backup and recovery using Veeam
+- Cloud fundamentals with Microsoft Azure
+- Network security using Fortigate firewalls
+
+The training focused on practical labs and real-world scenarios, preparing me to work in professional IT environments.
 
 ---
 
@@ -103,15 +143,11 @@ Agile & Scrum, Jira, technical documentation, Office tools
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MohamedGandoul&show_icons=true&theme=tokyonight" alt="Mohamed's GitHub stats" />
-</p>
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedGandoul&show_icons=true&theme=tokyonight)
 
 ## 🌍 Top Languages
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedGandoul&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedGandoul&layout=compact&theme=tokyonight)
 
 ## 🎯 My Goal
 
