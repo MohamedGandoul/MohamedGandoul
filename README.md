@@ -2,36 +2,57 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72D&width=435&lines=IT+Support+Specialist;Junior+Web+Developer;Future+IT+Engineer+in+Germany+%F0%9F%87%A9%F0%9F%87%AA;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72D&width=435&lines=Junior+IT+Support+Specialist;System+%26+Network+Technician;Web+Developer;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <strong>IT Support Specialist · Junior Web Developer · Future IT Engineer in Germany 🇩🇪</strong>
+  <strong>Junior IT Support Specialist | System & Network Technician | Web Developer</strong><br />
+  `mohamadgandoul@gmail.com` · `+212 693-413964` · Casablanca, Morocco<br />
+  <a href="https://linkedin.com/in/mohamed-gandoul">linkedin.com/in/mohamed-gandoul</a>
 </p>
 
 ---
 
 ## 😊 About me
 
-Hey! I'm Mohamed 👋
-
-I’m a **passionate IT Support Specialist & Junior Web Developer** from Morocco 🇲🇦, building friendly solutions and learning every day.
+I’m an IT Support Specialist and Junior Web Developer with hands-on experience in troubleshooting, networking, and system support. I hold the **Google IT Support Professional Certificate** and I’m currently advancing my skills through the **Microsoft IT Support Specialist** program.
 
 I enjoy:
 
-- 🛠️ Solving technical problems
-- 💻 Building websites and small projects
-- 🌍 Learning how systems and networks work
-- 🤓 Exploring new technologies and improving my skills
+- 🛠️ Solving technical problems and helping users
+- 💻 Building responsive websites and small web applications
+- 🌍 Learning network systems, virtualization, and cloud services
+- 🤓 Growing my skills with real-world IT experiences
 
-I hold a **Google IT Support Professional Certificate** and I’m currently studying IT support, infrastructure, and cloud technologies.
-
-My mission is simple: **keep learning, keep improving, and grow as a modern IT professional.**
+My goal is to become a strong IT professional in Germany while delivering practical solutions and friendly support.
 
 ---
 
-## 💼 Experience
+## 💼 Work Experience
+
+### 🔧 IT Support Specialist & Content Moderator
+
+**FoundEver · Jan 2025 – Present**
+Casablanca, Morocco
+
+- Identified content issues and shared insights to improve moderation strategy
+- Handled user interactions to promote positive and active engagement
+- Enforced community guidelines to maintain a safe and respectful space
+
+---
+
+### 🔧 Web Developer / IT System Manager (Internship)
+
+**Mihana-Go · Mar 2024 – May 2024**
+Casablanca, Morocco
+
+- Received practical training in troubleshooting, networking, and system administration
+- Supported data backups and disaster recovery with 100% data integrity
+- Installed and configured operating systems and software to keep systems stable
+- Provided IT support through a ticketing system, improving response time by 25%
+
+---
 
 ### 🔧 IT Infrastructure & Systems Intern
 
@@ -42,89 +63,59 @@ Casablanca-Settat, Morocco · On-site
 - Worked with Windows Server (Active Directory, DNS, DHCP, Group Policy)
 - Deployed and managed virtual machines using VMware vSphere
 - Performed backup and recovery operations using Veeam
-- Explored cloud services with Microsoft Azure (VMs, networking)
-- Configured and monitored firewall and security policies with Fortigate
+- Explored Microsoft Azure services (VMs, networking)
+- Configured and monitored firewall/security policies with Fortigate
 - Participated in troubleshooting real-world IT issues and system maintenance
-
----
-
-### 🖥️ IT Support Specialist & Content Moderator
-
-**FoundEver · Jan 2025 – Present**
-
-- Supported safe user interactions and content moderation
-- Improved engagement by following best moderation practices
-- Helped maintain platform trust and community quality
-
----
-
-### 🔧 IT & Web Development Intern
-
-**Mihana-Go · Mar 2024 – May 2024**
-
-- Troubleshot hardware and software issues
-- Supported backups and recovery with full data integrity
-- Installed and configured operating systems and applications
-- Improved ticket response time by 25% 📈
 
 ---
 
 ## 🎓 Education & Certifications
 
-### Union IT Services
+### All In One Infrastructure
 
-**Foundation Degree — IT Infrastructure, Systems & Network Administration**
-Apr 2026 – Present
+**Union IT Services**
 
-**Activities and societies:**
+- Microsoft IT Support Specialist Professional Certificate · Apr 2026 – Present
 
-- Hands-on labs in networking and system administration
-- Building virtual lab environments (VMware / Hyper-V)
-- Practicing real-world IT troubleshooting scenarios
-- Exploring cybersecurity fundamentals and network security
-- Self-learning and certification preparation (CCNA, Azure)
-- Collaborating with peers on technical projects and problem-solving
+### Coursera
 
-This program gave me a strong foundation in enterprise IT environments and practical experience in networking, system administration, virtualization, cloud computing, and cybersecurity.
+- Google IT Support Professional Certificate · Aug 2025 – Present
 
-**Key areas covered:**
+### OFPPT
 
-- Network configuration and troubleshooting (Cisco technologies)
-- Windows Server administration (Active Directory, DNS, DHCP, Group Policy)
-- Virtualization with VMware vSphere
-- Backup and recovery using Veeam
-- Cloud fundamentals with Microsoft Azure
-- Network security using Fortigate firewalls
+- Diploma Full-Stack & IT · Sep 2024 – May 2025
 
-The training focused on practical labs and real-world scenarios, preparing me to work in professional IT environments.
+### Taha Hussien
 
----
+- High School Diploma · Sep 2022 – Jul 2024
 
-### Certifications
+### Certifications & Courses
 
-- 🎓 Microsoft IT Support Specialist (In progress)
-- 🎓 Google IT Support Professional Certificate
-- 🎓 Full-Stack & IT Diploma – OFPPT
-- 🎓 High School Diploma – Casablanca
+- Microsoft IT Support Specialist Professional Certificate
+- Google IT Support Professional Certificate
+- Full-Stack IT Boot Camp: Udemy
+- Global Security Awareness Training: FoundEver
+- SQL: 365 Data Science
+- Git and GitHub: 365 Data Science
 
 ---
 
 ## 🧠 Skills
 
-| IT Support               | Networking                | Web Development |
-| ------------------------ | ------------------------- | --------------- |
-| Hardware diagnostics     | TCP/IP                    | HTML            |
-| Software troubleshooting | DNS & DHCP                | CSS             |
-| User support             | VPN                       | JavaScript      |
-| System maintenance       | VLANs, routing, switching | PHP             |
-|                          | Active Directory basics   | SQL / NoSQL     |
+| IT Support & Troubleshooting | Networking       | Web Development |
+| ---------------------------- | ---------------- | --------------- |
+| Hardware diagnostics         | TCP/IP           | HTML5           |
+| Software troubleshooting     | DNS              | CSS3            |
+| System maintenance           | DHCP             | JavaScript      |
+| User support                 | VPN              | PHP             |
+|                              | Active Directory | SQL / NoSQL     |
 
-| Tools & Technologies                        | Other                   |
-| ------------------------------------------- | ----------------------- |
-| React, Node.js, Express, Laravel, Bootstrap | Agile & Scrum           |
-| MySQL, MongoDB, Git & GitHub                | Jira                    |
-| VMware, Fortigate, Azure                    | Technical documentation |
-|                                             | Microsoft Office tools  |
+| Operating Systems                | Frameworks & Tools                              | Productivity & Methods             |
+| -------------------------------- | ----------------------------------------------- | ---------------------------------- |
+| Windows, Linux, macOS, Chrome OS | Bootstrap, React, Node.js, Laravel, Express.js  | Agile & Scrum                      |
+|                                  | MySQL, PostgreSQL, MongoDB, jQuery, Git, GitHub | Jira                               |
+|                                  | VMware, Fortigate, Azure                        | Technical documentation            |
+|                                  |                                                 | Microsoft Office, Google Workspace |
 
 ---
 
@@ -145,7 +136,7 @@ The training focused on practical labs and real-world scenarios, preparing me to
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedGandoul&show_icons=true&theme=tokyonight" alt="Mohamed's GitHub stats" />
 </p>
 
-> If the stats card does not load, the service may be temporarily unavailable or rate-limited. I’m keeping it here so it works automatically when the service is back.
+> If the stats card does not load, the service may be temporarily unavailable or rate-limited.
 
 ---
 
@@ -155,7 +146,7 @@ The training focused on practical labs and real-world scenarios, preparing me to
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedGandoul&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-> If this card is not visible, the GitHub stats service may be having an issue. The username and repo settings are correct.
+> Sometimes external GitHub stats services are temporarily blocked or rate-limited — but your repo data is still fine.
 
 ---
 
