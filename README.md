@@ -7,9 +7,6 @@
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedGandoul&layout=compact&theme=tokyonight" alt="Top Langs" />
-<img src="https://github-readme-stats.vercel.app/api?username=MohamedGandoul&show_icons=true&theme=tokyonight" alt="Mohamed's GitHub stats" />
-
 </p>
 
 Welcome to my GitHub 😄💻  
@@ -103,6 +100,18 @@ Agile & Scrum, Jira, technical documentation, Office tools
 - 🇨🇳 Chinese – Beginner
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MohamedGandoul&show_icons=true&theme=tokyonight" alt="Mohamed's GitHub stats" />
+</p>
+
+## 🌍 Top Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedGandoul&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 ## 🎯 My Goal
 
