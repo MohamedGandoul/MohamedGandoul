@@ -111,10 +111,10 @@ Casablanca-Settat, Morocco · On-site
 
 | Operating Systems                | Frameworks & Tools                              | Productivity & Methods             |
 | -------------------------------- | ----------------------------------------------- | ---------------------------------- |
-| Windows, Linux, macOS, Chrome OS | Bootstrap, React, Node.js, Laravel, Express.js  | Agile & Scrum                      |
-|                                  | MySQL, PostgreSQL, MongoDB, jQuery, Git, GitHub | Jira                               |
-|                                  | VMware, Fortigate, Azure                        | Technical documentation            |
-|                                  |                                                 | Microsoft Office, Google Workspace |
+| Windows                          | Bootstrap, React, Node.js, Laravel, Express.js  | Agile & Scrum                      |
+| Linux                            | MySQL, PostgreSQL, MongoDB, jQuery, Git, GitHub | Jira , Slack                       |
+| macOS                            | VMware, Fortigate, Azure                        | Technical documentation            |
+| Chrome OS                        |                                                 | Microsoft Office, Google Workspace |
 
 ---
 
@@ -126,26 +126,6 @@ Casablanca-Settat, Morocco · On-site
 - 🇩🇪 German – B1 (improving to B2 🇩🇪🔥)
 - 🇯🇵 Japanese – N5
 - 🇨🇳 Chinese – Beginner
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedGandoul&show_icons=true&theme=tokyonight" alt="Mohamed's GitHub stats" />
-</p>
-
-> If the stats card does not load, the service may be temporarily unavailable or rate-limited.
-
----
-
-## 🌍 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedGandoul&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-> Sometimes external GitHub stats services are temporarily blocked or rate-limited — but your repo data is still fine.
 
 ---
 
