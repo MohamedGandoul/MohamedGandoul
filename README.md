@@ -1,14 +1,14 @@
 # Hey 👋 I'm Mohamed Gandoul (モハメッド・ガンドゥール)
 
 <p align="center">
-	<a href="https://git.io/typing-svg">
-		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72D&width=435&lines=IT+Support+Specialist;Junior+Web+Developer;Future+IT+Engineer+in+Germany+%F0%9F%87%A9%F0%9F%87%AA;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
-	</a>
-  
-	<br />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72D&width=435&lines=IT+Support+Specialist;Junior+Web+Developer;Future+IT+Engineer+in+Germany+%F0%9F%87%A9%F0%9F%87%AA;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedGandoul&layout=compact&theme=tokyonight" alt="Top Langs" />
-    <img src="https://github-readme-stats.vercel.app/api?username=MohamedGandoul&show_icons=true&theme=tokyonight" alt="Mohamed's GitHub stats" />
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedGandoul&layout=compact&theme=tokyonight" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=MohamedGandoul&show_icons=true&theme=tokyonight" alt="Mohamed's GitHub stats" />
 
 </p>
 
