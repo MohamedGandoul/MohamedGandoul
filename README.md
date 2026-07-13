@@ -9,55 +9,64 @@
 <p align="center">
   <strong>Junior IT Support Specialist | System & Network Technician | Web Developer</strong><br />
   📍 Casablanca, Morocco (Relocating to Germany 🇩🇪) <br />
-  📧 <a href="mailto:mohamadgandoul@gmail.com">mohamadgandoul@gmail.com</a> | 💼 <a href="https://linkedin.com/in/mohamed-gandoul">linkedin.com/in/mohamed-gandoul</a>
+  📧 <a href="mailto:mohamadgandoul@gmail.com">mohamadgandoul@gmail.com</a> | 📱 +212 693-413964 | 💼 <a href="https://linkedin.com/in/mohamed-gandoul">linkedin.com/in/mohamed-gandoul</a> | 🐙 <a href="https://github.com/MohamedGandoul">github.com/MohamedGandoul</a>
 </p>
 
 ---
 
 ## 😊 About Me
 
-I’m an IT Support Specialist and Junior Web Developer with hands-on experience in troubleshooting, networking, and system support . I hold the **Google IT Support Professional Certificate** and I’m currently advancing my skills through the **Microsoft IT Support Specialist** program .
+I'm an IT Support Specialist and Junior Web Developer with hands-on experience in troubleshooting, networking, and system support. I hold the **Google IT Support Professional Certificate** and the **Microsoft IT Support Specialist Professional Certificate**, and I'm currently pursuing my **CompTIA A+** and **Server+** certifications while continuing to build knowledge in IT infrastructure, hardware, operating systems, networking, and enterprise support.
 
 I enjoy:
-- 🛠️ **Solving technical problems** and delivering friendly user support .
-- 💻 **Building responsive websites** and interactive full-stack web applications .
-- 🌍 **Exploring network systems**, virtualization, and cloud infrastructure .
-- 🗣️ **Learning new languages** — I have a deep passion for discovering and mastering different global languages to connect with diverse cultures and technical teams worldwide .
-- 🤓 **Growing my skills** through homelabs and real-world IT challenges .
+- 🛠️ **Solving technical problems** and delivering friendly user support.
+- 💻 **Building responsive websites** and interactive full-stack web applications.
+- 🌍 **Exploring network systems**, virtualization, and cloud infrastructure.
+- 🗣️ **Learning new languages** — I have a deep passion for discovering and mastering different global languages to connect with diverse cultures and technical teams worldwide.
+- 🤓 **Growing my skills** through homelabs and real-world IT challenges.
 
-**My Goal:** To launch a successful IT career in Germany 🇩🇪 while continuously delivering practical, efficient, and secure technical solutions .
+**My Goal:** To launch a successful IT career in Germany 🇩🇪 while continuously delivering practical, efficient, and secure technical solutions.
 
 ---
 
 ## 💼 Work Experience
 
-### 🔧 IT Infrastructure & Systems Intern
-**Union IT Services** · *Apr 2026 – Present* | Casablanca-Settat, Morocco
-- Assist in configuring and managing network infrastructure (**VLANs, routing, switching**) .
-- Work with Windows Server environment (**Active Directory, DNS, DHCP, Group Policy**) .
-- Deploy and manage virtual machines using **VMware vSphere** and explore **Microsoft Azure** cloud services .
-- Perform reliable backup and recovery operations using **Veeam** .
-- Configure and monitor firewall/security policies using **Fortigate** .
+### 🔧 IT Infrastructure & Systems (Internship)
+**Union IT Services** · *Mar 2026 – Jun 2026* | Casablanca, Morocco
+- Configured and managed **VLANs, switches, and routers**.
+- Supported **Windows Server** environments (**Active Directory, DNS, DHCP**).
+- Deployed and managed virtual machines using **VMware vSphere**.
+- Performed basic backup and recovery operations using **Veeam**.
+- Participated in troubleshooting real-world IT issues and system maintenance.
+- Assisted with **Microsoft Azure** and cloud services.
 
 ### 🔧 IT Support Specialist & Content Moderator
-**FoundEver** · *Jan 2025 – Present* | Casablanca, Morocco
-- Identify content issues and share technical insights to continuously improve platform moderation strategies .
-- Handle multi-user interactions to promote positive, respectful, and highly active community engagement .
+**FoundEver** · *Jan 2025 – Jul 2026* | Casablanca, Morocco
+- Identified content issues and shared technical insights to continuously improve platform moderation strategy.
+- Handled multi-user interactions to promote positive, respectful, and highly active community engagement.
+- Enforced community guidelines to maintain a safe and respectful environment.
 
 ### 🔧 Web Developer / IT System Manager (Internship)
 **Mihana-Go** · *Mar 2024 – May 2024* | Casablanca, Morocco
-- Hands-on troubleshooting, system administration, and network maintenance .
-- Maintained **100% data integrity** by managing regular data backups and disaster recovery protocols .
-- Streamlined corporate IT support workflows through a ticketing system, **improving response times by 25%** .
+- Provided IT support through a ticketing system.
+- Installed and configured Windows, software, and devices.
+- Performed data backup and system maintenance.
+- Assisted with website updates and troubleshooting.
 
 ---
 
 ## 💻 Projects & Labs
 
-### 🏠 Home Lab – Enterprise IT Support Environment
-- Built a dedicated virtual lab environment using **Windows Server** and **Linux** distributions .
-- Practiced setting up and troubleshooting network connectivity, custom **DNS**, and **DHCP** scope configurations .
-- Simulated real-world enterprise user support scenarios, Active Directory hierarchy setups, and system maintenance tasks .
+### 🏠 Home Lab – IT Support Environment
+- Built a dedicated virtual lab environment using **Windows** and **Linux** distributions.
+- Practiced setting up and troubleshooting network connectivity, custom **DNS**, and **DHCP** scope configurations.
+- Simulated real-world enterprise user support scenarios, Active Directory hierarchy setups, and system maintenance tasks.
+
+### 📻 Deutschland Radio-Stations
+- Built a responsive web app for streaming German radio stations with playback controls and volume adjustment.
+
+### 🎮 Simon Game (JavaScript Web Game)
+- Developed an interactive Simon memory game using HTML, CSS, and JavaScript to strengthen front-end and logic skills.
 
 ### 🚀 Pinned Web Repositories
 *Check out some of my public web applications and coding milestones:*
@@ -76,10 +85,10 @@ I enjoy:
 ### Infrastructure & Operations
 | Category | Technologies / Skills |
 | :--- | :--- |
-| **IT Support** | Hardware Diagnostics, Software Troubleshooting, System Maintenance, Technical Documentation |
-| **Networking** | TCP/IP, DNS, DHCP, VPN, Active Directory, Fortigate Firewalls |
-| **Virtualization & Cloud** | VMware vSphere, Microsoft Azure, Veeam Backup & Recovery |
-| **Operating Systems** | Windows, Linux (Ubuntu/Debian), macOS, Chrome OS |
+| **IT Support** | Hardware & Software Troubleshooting, System Maintenance, User Support, Ticketing Systems, Technical Documentation |
+| **Networking** | TCP/IP, DNS, DHCP, VPN, VLANs, Active Directory, FortiGate Firewalls |
+| **Virtualization & Cloud** | VMware vSphere, Microsoft Azure, Veeam Backup & Recovery, Virtual Machines |
+| **Operating Systems** | Windows Server, Linux (Ubuntu/Debian), macOS, Chrome OS |
 
 ### Web Development & Tools
 | Category | Technologies / Skills |
@@ -87,40 +96,42 @@ I enjoy:
 | **Languages** | HTML5, CSS3, JavaScript, PHP, SQL, NoSQL |
 | **Frameworks & Libs** | Bootstrap, React, Node.js, Express.js, Laravel, jQuery |
 | **Databases** | MySQL, PostgreSQL, MongoDB |
-| **Tools & Methods** | Git, GitHub, Jira, Slack, Agile & Scrum, UML Diagrams |
+| **Tools & Methods** | Git, GitHub, Microsoft Office, Google Workspace, Jira, Slack, Agile & Scrum, UML Diagrams |
 
 ---
 
 ## 🎓 Education & Certifications
 
 ### Education
-*   **Professional Certificate** | Microsoft IT Support Specialist, *Union IT Services (2026 - Present)* 
-*   **Professional Certificate** | Google IT Support Professional, *Coursera (2025 - Present)* 
-*   **Diploma in Full-Stack & IT** | *OFPPT (2024 - 2025)* 
-*   **High School Diploma** | *Taha Hussien School (2022 - 2024)* 
+*   **IT Infrastructure, Systems & Network Administration** | Union IT Services, *Mar 2026 – Jun 2026* | Casablanca, Morocco
+*   **Full-Stack Development & IT Diploma** | OFPPT, *Sep 2022 – May 2024* | Casablanca, Moulay Rachid
+*   **High School Diploma** | Taha Hussien, *Jun 2019 – Jun 2022* | Casablanca, Morocco
 
 ### Certifications & Courses
-*   Full-Stack IT Boot Camp *(Udemy)* 
-*   Global Security Awareness Training *(FoundEver)* 
-*   SQL & Relational Databases *(365 Data Science)* 
-*   Git and GitHub Version Control *(365 Data Science)* 
+*   Microsoft IT Support Specialist Professional Certificate
+*   Google IT Support Professional Certificate
+*   Full-Stack IT Boot Camp *(Udemy)*
+*   Git and GitHub Version Control *(365 Data Science)*
+*   Global Security Awareness Training *(FoundEver)*
+*   🔜 CompTIA A+ and Server+ *(in progress)*
 
 ---
 
 ## 🌍 Languages & Polylingual Journey
-*I love discovering new global languages and pushing myself to talk directly with native teams!* 
+*I love discovering new global languages and pushing myself to talk directly with native teams!*
 
-*   🇸🇦 **Arabic** – Native 
-*   🇬🇧 **English** – Full Professional Proficiency 
-*   🇫🇷 **French** – Professional Working Proficiency 
-*   🇩🇪 **German** – B1 (Actively improving to B2 🔥) 
-*   🇯🇵 **Japanese** – N5 (Limited Working Proficiency) 
-*   🇨🇳 **Chinese** – Beginner 
+*   🇸🇦 **Arabic** – Native / Bilingual Proficiency
+*   🇬🇧 **English** – Full Professional Proficiency
+*   🇫🇷 **French** – Professional Working Proficiency
+*   🇩🇪 **German** – Professional Working Proficiency (Actively improving to B2 🔥)
+*   🇯🇵 **Japanese** – Limited Working Proficiency
+*   🇨🇳 **Chinese** – Limited Working Proficiency
 
 ---
 
 ## 🎯 Current Goals
 
+- [ ] Earn my **CompTIA A+** and **Server+** certifications
 - [ ] Elevate my German proficiency to solid B2 🇩🇪
 - [ ] Earn my Cisco CCNA Certification 🌐
 - [ ] Deepen hands-on cloud knowledge (Azure Administrator track)
@@ -130,7 +141,7 @@ I enjoy:
 
 ## ⚡ Fun Fact
 
-“Pepo” means happy 🙂 and I bring that exact positive, problem-solving energy into every technical challenge and team environment I join! 
+"Pepo" means happy 🙂 and I bring that exact positive, problem-solving energy into every technical challenge and team environment I join!
 
 ---
 
